@@ -1,6 +1,5 @@
-# Car-prices-prediction-with-ML
+# Car Price Prediction with Machine Learning using PyTorch
 
-Car Price Prediction with Machine Learning using PyTorch
 This project demonstrates how to predict car prices using a regression model built with PyTorch. It includes preprocessing of real-world car data, exploratory data analysis (EDA), feature engineering, model training, and result visualization.
 
 📊 Insights from Data Analysis
